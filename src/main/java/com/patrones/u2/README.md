@@ -20,4 +20,3 @@
 * [cite_start]**Prueba Factory:** Se crean y envian notificaciones exitosamente para Email, SMS y Push[cite: 239, 243, 245].
 * [cite_start]**Prueba OCP:** Se registra un nuevo notificador para Slack dinamicamente y se envia un mensaje sin errores[cite: 248, 265].
 
-(Aqui debes pegar la captura de pantalla de tu terminal con la salida del programa)
